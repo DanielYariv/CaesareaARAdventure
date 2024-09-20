@@ -1,7 +1,7 @@
 # **CaesareaARAdventure**
 
 ### **Project Description**
-**INPA-CaesareaARAdventure** is a game developed for the Israel Nature and Parks Authority at Caesarea National Park. The game is designed for multigenerational families, from young children to grandparents, allowing them to explore and enjoy the park through various interactive experiences. The game includes trivia, word games, and AR (augmented reality) activities that provide players with reconstructions of historical locations at the park, such as King Herod's palace.
+**CaesareaARAdventure** is a game developed for the Israel Nature and Parks Authority at Caesarea National Park. The game is designed for multigenerational families, from young children to grandparents, allowing them to explore and enjoy the park through various interactive experiences. The game includes trivia, word games, and AR (augmented reality) activities that provide players with reconstructions of historical locations at the park, such as King Herod's palace.
 
 ### **Main Features**
 - **Family Registration**: Families can register as a group, upload a family photo from the gallery, take a picture, or choose an emoji as their group icon.
