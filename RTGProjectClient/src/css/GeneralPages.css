@@ -1,0 +1,86 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;700&display=swap");
+
+.inner-container {
+  direction: rtl;
+  font-family: "Rubik", sans-serif;
+  margin-top: -20px;
+}
+
+p {
+  font-weight: 100;
+}
+
+/*Instructions*/
+.headerInst {
+  margin-top: 15%;
+}
+
+.pWithoutmargin {
+  margin-bottom: 0px;
+}
+
+/*Rating*/
+
+h5 {
+  font-weight: 100;
+  color: #004a3a;
+  margin: 30px 0px;
+}
+
+.rating-container {
+  background-color: rgba(240, 248, 255, 0.7);
+  border-radius: 30px;
+  padding: 20px;
+  width: 90%;
+  height: 50%;
+  margin: 0 auto;
+}
+
+.rating-text {
+  font-weight: 100;
+  direction: rtl;
+  font-family: "Rubik", sans-serif;
+}
+
+.rating-station {
+  padding-top: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.ranking-btn {
+  display: block;
+  width: 80%;
+  padding: 12px;
+  margin: 20px auto;
+  background-color: #004a3a;
+  color: white;
+  font-size: 18px;
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+.ranking-finish {
+  margin: 20px auto;
+}
+/* welcomePage */
+.welcome-content {
+  margin-bottom: 20px;
+  margin-top: 100px;
+  color: #004a3a;
+  font-size: 20px;
+}
+
+.welcome-buttons {
+  margin-bottom: 150px;
+}
+
+.welcome-site {
+  font-family: "Rubik", sans-serif !important;
+  color: #004a3a !important;
+  font-size: 16px !important;
+  font-weight: 100 !important;
+}
+
+

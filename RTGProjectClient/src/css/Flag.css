@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;700&display=swap");
+
+.font-input {
+  font-family: "Rubik", sans-serif;
+}
+.footer-style {
+  position: relative;
+  top: 30px;
+  margin-top: 50px;
+}
+.flag-container {
+  position: absolute;
+  top: 57%; /*used to be 53 */
+  left: 15%; /* Set to a percentage of the viewport width for responsiveness */
+  height: calc(90vw * 0.666); /* Height is set to maintain the aspect ratio */
+  margin: auto;
+  margin-bottom: 200px;
+  margin: 0 auto;
+}
+
+.flag-image {
+  width: 100%;
+  height: 100%;
+  display: block;
+  margin: 0 auto;
+}
+
+.family-image {
+  position: absolute;
+  top: 13%;
+  left: 10%;
+  width: 80%;
+  max-height: 70%;
+  object-fit: cover;
+  object-position: top;
+}
+
+.family-icon {
+  position: absolute;
+  bottom: 40px;
+  left: 8%;
+  width: 80%;
+  height: auto; /* Maintain the aspect ratio of the photo */
+  max-height: 80%;
+  font-size: 150px;
+}
+
+.button-style {
+  margin-top: 20px;
+  margin-bottom: 120px;
+}
+
+.footer-hidden .footer-graphic img {
+  display: none;
+}

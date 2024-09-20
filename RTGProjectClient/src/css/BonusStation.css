@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;700&display=swap");
+
+.bonus-container {
+  font-family: "Rubik", sans-serif;
+  margin-top: 10%;
+}
+
+.bonus-content {
+  margin: 0px 10px;
+  font-weight: 100;
+  padding: 10px;
+}
+
+.bonus-station-container {
+  position: relative;
+  max-width: 400px;
+  height: calc(90vw * 0.666); /* Height is set to maintain the aspect ratio */
+  max-height: 300px;
+  margin: auto;
+  margin-bottom: 50px;
+}
+
+.family-image-bonus {
+  position: absolute;
+  top: 13%;
+  left: 10%;
+  width: 80%;
+  height: auto;
+  max-height: 80%;
+}
+
+.family-emoji-bonus {
+  position: absolute;
+  top: 13%;
+  left: 10%;
+  width: 80%;
+  height: auto;
+  max-height: 80%;
+  font-size: 150px;
+}
+
+.points-content {
+  margin-top: 5%;
+  font-size: 30px;
+}
+
+.bonus-station-container {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.confetti-container {
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}

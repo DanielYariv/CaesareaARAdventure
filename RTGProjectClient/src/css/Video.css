@@ -1,0 +1,30 @@
+.start-button {
+  display: block;
+  width: 80%;
+  padding: 12px;
+  margin: 200px auto 0 auto; 
+  background-color: #004a3a;
+  color: white;
+  font-size: 18px;
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  z-index: 10;
+}
+.finish-button {
+  display: block; 
+  width: 80%; 
+  padding: 12px;
+  margin: 20px auto; 
+  background-color: #004a3a; 
+  color: white;
+  font-size: 18px;
+  border: none;
+  border-radius: 50px; 
+  cursor: pointer;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); 
+  z-index: 10;
+  position: relative;
+  top: 350px;
+}
